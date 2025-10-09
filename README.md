@@ -30,13 +30,10 @@
 ---
 
 ## 🚀 Projects
-- 📱 [Cartsy]() – Product listing, search, cart, and order placement  
-- 📚 [Readify]() – Browse and read books  
-- 📖 [Toba]() – Quran, Azkar, prayer times, and tasbih  
+- 💲 [Saveit]() –  Store salary , expenses and installments , SaveitChat Ai , Compare daily expenses
+- 🛍️ [UnderStore]() – Product listing, Search, Cart, and Order placement  
 - 📝 [Notes]() – Create, edit, and search notes  
-- 📊 [Responsive Dashboard UI]() – For mobile, tablet, and desktop  
   
-
 ---
 
 ## 📊 GitHub Stats
