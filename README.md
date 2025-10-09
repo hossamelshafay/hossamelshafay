@@ -46,8 +46,8 @@
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hossam-elshafay-067595368) 
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/abdelrahmanali299](https://github.com/hossamelshafay))  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/hossamelshafay))  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossamelshafay@hotmail.com)
 
-[![Instgram](https://img.shields.io/badge/Instgram-000?style=for-the-badge&logo=instgram&logoColor=white)]([https://www.instagram.com/li.l5?igsh=MTN0cncxYnBuM290Yw==))
+[![Instgram](https://img.shields.io/badge/Instgram-000?style=for-the-badge&logo=instgram&logoColor=white)]([https://www.instagram.com/li.l5?igsh=MTN0cncxYnBuM290Yw==)
