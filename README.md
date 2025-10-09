@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 - 🔭 Flutter Developer (1+ year experience)  
-- 🎓 Studying Computer Science & Control Systems at [New Mansoura University]  
+- 🎓 Studying Computer Science at [New Mansoura University]  
 - 💼 Currently training as a Flutter Developer at INFOSAS  
 - 🌱 Learning advanced Flutter & backend integration  
 - 👯 Open to collaborating on Flutter and mobile app projects
