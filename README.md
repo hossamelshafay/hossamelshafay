@@ -30,7 +30,7 @@
 ---
 
 ## 🚀 Projects
-- 💲 [Saveit]() –  Store salary , expenses and installments , SaveitChat Ai , Compare daily expenses
+- 💲 [Saveit](https://github.com/hossamelshafay/Saveit) –  Store salary , expenses and installments , SaveitChat Ai , Compare daily expenses
 - 🛍️ [UnderStore]() – Product listing, Search, Cart, and Order placement  
 - 📝 [Notes]() – Create, edit, and search notes  
   
