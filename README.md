@@ -37,17 +37,18 @@
 ---
 
 ## 📊 GitHub Stats
-![hossam's GitHub stats]()  
 
-![Top Langs]()  
+![Hossam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hossamelshafay&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hossamelshafay&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hossam-elshafay-067595368) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossam-elshafay-067595368)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/hossamelshafay))  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossamelshafay@hotmail.com)
 
-[![Instgram](https://img.shields.io/badge/Instgram-000?style=for-the-badge&logo=instgram&logoColor=white)]([https://www.instagram.com/li.l5?igsh=MTN0cncxYnBuM290Yw==)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/li.l5?igsh=MTN0cncxYnBuM290Yw==)
