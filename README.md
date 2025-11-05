@@ -54,8 +54,5 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/li.l5?igsh=MTN0cncxYnBuM290Yw==)
 
----
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/hossamelshafay/hossamelshafay/blob/output/github-contribution-grid-snake.svg)
 
