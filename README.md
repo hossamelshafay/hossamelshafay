@@ -11,7 +11,7 @@
 - 💼 Currently training as a Flutter Developer at INFOSAS  
 - 🌱 Learning advanced Flutter & backend integration  
 - 👯 Open to collaborating on Flutter and mobile app projects
-- 📄 [View My Resume](Link)
+- 📄 [View My Resume](https://drive.google.com/file/d/1cuQYd9pWYh044p2X4ViVn9_GdxLtvIOo/view?pli=1)
 - 📫 Reach me at: hossamelshafay@hotmail.com
 
 
