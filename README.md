@@ -26,6 +26,7 @@
 | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![Hive](https://img.shields.io/badge/Hive-8B4513?style=for-the-badge&logo=hive&logoColor=white) | ![Shared Preferences](https://img.shields.io/badge/Shared_Preferences-F5DE50?style=for-the-badge&logo=android&logoColor=black) |
 | ![HTTP](https://img.shields.io/badge/HTTP_Client-4682B4?style=for-the-badge&logo=http&logoColor=white) | ![Dio](https://img.shields.io/badge/Dio-DC143C?style=for-the-badge&logo=axios&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 | ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) |  |  |
+|  ![Stripe](https://img.shields.io/badge/Stripe-5433FF?style=for-the-badge&logo=stripe&logoColor=white) |  |  |
 
 ---
 
