@@ -31,18 +31,18 @@
 
 ## 🚀 Projects
 - 💲 [Saveit](https://github.com/hossamelshafay/Saveit) –  Store salary , expenses and installments , SaveitChat Ai , Compare daily expenses
-- 🛍️ [UnderStore](https://github.com/hossamelshafay/UnderStore) – Product listing, Search, Cart, and Order placement  
+- 🛍️ [UnderStore](https://github.com/hossamelshafay/UnderStore) – Login , Product listing, Search, Cart, Payment getaway, and Order placement  
 - 📝 [Notes]() – Create, edit, and search notes  
   
 ---
 
 ## 👌 GitHub Overview
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hossamelshafay&theme=tokyo-night)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=hossamelshafay&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hossamelshafay&layout=compact&theme=tokyonight&cache_seconds=86400)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hossamelshafay&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossamelshafay&theme=tokyonight)
 
 
 
@@ -51,11 +51,10 @@
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossam-elshafay-067595368)
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/hossamelshafay))  
+[![Instagram](https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/li.l5)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossamelshafay@hotmail.com)
 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/li.l5?igsh=MTN0cncxYnBuM290Yw==)
 
 
  
