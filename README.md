@@ -36,11 +36,11 @@
   
 ---
 
-## 📊 GitHub Stats
+## 🚀 GitHub Overview
 
-![Hossam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hossamelshafay&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hossamelshafay&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=hossamelshafay&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hossamelshafay&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hossamelshafay&show_icons=true&theme=tokyonight)
 
 
 ---
